@@ -35,17 +35,10 @@
   .container {
     width: 100%;
   }
-  .container div
-  {
-    overflow: hidden;
-  }
+
 
   /*nav*/
-.app_responsive
-{
-  width: 100%;
-  overflow: hidden;
-}
+
   .app_barre_action ul:nth-child(1) {
     display:flex;
   }
@@ -154,10 +147,7 @@ margin: 0px;
     padding-right: 10px;
   }
   /*  footer*/
-  .footer_bas-page
-  {
-    width: 100%;
-  }
+
 
 .text_footer p{
   padding: 10px;
@@ -238,9 +228,7 @@ margin: 0px;
   }
 
   /*nav*/
-  .app_responsive{
-    width: 100%;
-  }
+
   .app_barre_action ul:nth-child(1) {
     display:flex;
   }
@@ -275,7 +263,7 @@ margin: 0px;
 
   .btn_header {
     font-size: 15px;
-    margin-left: 18%;
+
   }
 
   .titel_btn {
@@ -333,15 +321,12 @@ flex-direction: column;
 margin: 0px;
   }
   /*  footer*/
-.footer_bas-page
-{
-  width: 100%;
-  overflow: hidden;
-}
+
 
   .footer_nav {
       justify-content: space-between;
       flex-direction: column;
+      flex-wrap: wrap;
   }
   .formulair
   {
