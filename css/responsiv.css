@@ -39,7 +39,7 @@
   /*nav*/
 .app_responsive
 {
-  width: 100%;
+  width: 320%;
 }
   .app_barre_action ul:nth-child(1) {
     display:flex;
