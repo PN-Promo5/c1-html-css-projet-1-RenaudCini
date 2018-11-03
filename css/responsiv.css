@@ -44,6 +44,7 @@
 .app_responsive
 {
   width: 100%;
+  overflow: hidden;
 }
   .app_barre_action ul:nth-child(1) {
     display:flex;
@@ -335,6 +336,7 @@ margin: 0px;
 .footer_bas-page
 {
   width: 100%;
+  overflow: hidden;
 }
 
   .footer_nav {
