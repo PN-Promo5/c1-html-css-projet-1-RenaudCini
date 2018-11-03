@@ -35,11 +35,15 @@
   .container {
     width: 100%;
   }
+  .container div
+  {
+    overflow: hidden;
+  }
 
   /*nav*/
 .app_responsive
 {
-  width: 320%;
+  width: 100%;
 }
   .app_barre_action ul:nth-child(1) {
     display:flex;
