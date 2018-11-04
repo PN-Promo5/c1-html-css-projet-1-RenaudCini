@@ -112,7 +112,7 @@
   }
 
   .concept_web li {
-    padding-right: 200px;
+
     width: 60%;
   }
   .concept_web h2{
@@ -297,10 +297,7 @@ margin: 0px;
     flex-direction: column;
   }
 
-  .concept_web li {
-    padding-right: 200px;
 
-  }
 .reponsive_diplay_none
 {
   display: none;
