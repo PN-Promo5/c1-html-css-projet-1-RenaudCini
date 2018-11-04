@@ -112,7 +112,6 @@
   }
 
   .concept_web li {
-
     width: 60%;
   }
   .concept_web h2{
@@ -157,10 +156,7 @@ margin: 0px;
     justify-content: space-between;
     flex-direction: column;
 }
-.formulair
-{
-  padding: 20px;
-}
+
 .formulair form
 {
   text-align: center;
